@@ -1,0 +1,68 @@
+
+
+.skills {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(255, 255, 255, 0.903);
+    height: 70vh;
+    width: 100%;
+}
+
+.width {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+    width: 70%;
+
+}
+
+.years {
+    width: 50%;
+    display: grid;
+    align-content: center;
+    justify-items: center;
+    gap: 30px;
+}
+
+.stats {
+    width: 50%;
+    
+}
+
+h1 {
+    font-weight:400;
+    font-size: 30px;
+}
+
+.bg {
+    background-color: rgb(145, 142, 142);
+    width: 100%;
+    border-radius: 50px;
+}
+
+.orangered {
+    background-color: rgb(255, 204, 0);
+    height: 5px;
+    width: 72%;
+    border-radius: 50px;
+}
+
+.content {
+    display: grid;
+    align-content: center;
+    gap: 40px;
+}
+
+.one {
+    width: 100%;
+}
+
+.five {
+    width: 50%;
+}
+
+.two {
+    width: 20%;
+}
