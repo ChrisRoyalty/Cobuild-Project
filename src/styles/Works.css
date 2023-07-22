@@ -1,0 +1,102 @@
+.imgDiv1 {
+   background: url(../images/one.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+   margin-bottom: 20px;
+}
+
+.imgDiv1:hover {
+ background: linear-gradient(
+         rgba(249, 229, 6, 0.912),
+         rgba(243, 224, 8, 0.945)
+      ),
+      url(../images/one.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+   /* background: transparent; */
+}
+
+.imgDiv2 {
+   background: url(../images/two.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+   margin-bottom: 20px;
+}
+
+.imgDiv2:hover {
+   background: linear-gradient(
+         rgba(249, 229, 6, 0.912),
+         rgba(243, 224, 8, 0.945)
+      ),
+      url(../images/two.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+
+.imgDiv3 {
+   background: url(../images/three.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+   margin-bottom: 20px;
+}
+
+.imgDiv3:hover {
+   background: linear-gradient(
+         rgba(249, 229, 6, 0.912),
+         rgba(243, 224, 8, 0.945)
+      ),
+      url(../images/three.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+
+.imgDiv4 {
+   background: url(../images/four.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+   margin-bottom: 20px;
+}
+
+.imgDiv4:hover {
+   background: linear-gradient(
+         rgba(249, 229, 6, 0.912),
+         rgba(243, 224, 8, 0.945)
+      ),
+      url(../images/four.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+
+.imgDiv5 {
+   background: url(../images/five.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+   margin-bottom: 20px;
+}
+
+.imgDiv5:hover {
+   background: linear-gradient(
+         rgba(249, 229, 6, 0.912),
+         rgba(243, 224, 8, 0.945)
+      ),
+      url(../images/five.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+
+.imgDiv6 {
+   background: url(../images/six.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+   margin-bottom: 20px;
+}
+
+.imgDiv6:hover {
+   background: linear-gradient(
+         rgba(249, 229, 6, 0.912),
+         rgba(243, 224, 8, 0.945)
+      ),
+      url(../images/six.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+}
